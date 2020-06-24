@@ -20,8 +20,9 @@ $(function () {
     var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 
     var songs = [{
-        artist: "Test",
-        name: "Lofi chill nhe",
+        artist: "Vận Hành Bởi Thắng",
+        name: "Thắng A7K49",
+        name: "Code By Nguyen Anh Nhan",
         url: "Musics/lofichill.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }];
